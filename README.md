@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**yat44/yat44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It is me! Yan Tong, a system analyst in university of Pittsburgh, general medicine.
 
-this is my first branch of my first repo
+this is my first branch of my first repository
 
